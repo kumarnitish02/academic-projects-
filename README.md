@@ -1,2 +1,2 @@
 # academic-projects-
-here is my all academic projects listed.
+Thank you for opening my repo.
